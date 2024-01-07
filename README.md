@@ -1,2 +1,2 @@
 # WalkaV
-Walka 5 project repository
+WALKA V WERSJE DO TESTÓW
